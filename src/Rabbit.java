@@ -10,11 +10,13 @@ public class Rabbit extends Animals {
 		this.color = color;
 	}
 
-	public String getColor() {
+	public String getColor()
+	{
 		return color;
 	}
 
 	public void setColor() {
+
 		this.color = color;
 	}
 
